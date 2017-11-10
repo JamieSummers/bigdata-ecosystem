@@ -1,0 +1,47 @@
+{
+  "name": "eXtremeDB",
+  "description": "Big Data analytics",
+  "abstract": "Big Data analytics",
+  "category": "Business Intelligence",
+  "tags": ["DBMS, Analytics, BI, Big Data"],
+  "links": [{"text": "eXtremeDB", "url": "http://www.mcobject.com/"}]
+}{
+  "name": "eXtremeDB Cluster",
+  "description": "built from the ground up for distributed embedded software as well as real-time enterprise applications",
+  "abstract": "built from the ground up for distributed embedded software as well as real-time enterprise applications",
+  "category": "Distributed Programming",
+  "tags": ["Programming"],
+  "links": [{"text": "eXtremeDB Cluster", "url": "http://www.mcobject.com/distributed-database"}]
+}
+{
+  "name": "eXtremeDB SQL",
+  "description": "embedded or server is low-latency, scalable, real-time responsiveness where SQL is the dominant database language",
+  "abstract": "embedded or server is low-latency, scalable, real-time responsiveness where SQL is the dominant database language",
+  "category": "NewSQL Databases",
+  "tags": ["DBMS, SQL,"],
+  "links": [{"text": "eXtremeDB SQL", "url": "http://www.mcobject.com/extremesql.shtml"}]
+}
+{
+  "name": "eXtremeDB Time Series",
+  "description": "columnar data layout, pipelining vector-based statistical functions",
+  "abstract": "columnar data layout, pipelining vector-based statistical functions",
+  "category": "Time-Series Databases",
+  "tags": ["DBMS, Analytics, BI, Big Data"],
+  "links": [{"text": "eXtremeDB", "url": "http://financial.mcobject.com/"}]
+}
+{
+  "name": "eXtremeDB",
+  "description": "In-Memory Analytics & Pipelining Vector-Based Statistical Functions ",
+  "abstract": "In-Memory Analytics & Pipelining Vector-Based Statistical Functions ",
+  "category": "Data Analysis",
+  "tags": ["DBMS"],
+  "links": [{"text": "eXtremeDB", "url": "http://www.mcobject.com/"}]
+}
+{
+  "name": "eXtremeDB",
+  "description": "real-time DBMS performance for edge device, gateway, or server, specialized indexing, scalable, Native APIs ",
+  "abstract": "real-time DBMS performance for edge device, gateway, or server, specialized indexing, scalable, Native APIs ",
+  "category": "Internet of Things",
+  "tags": ["DBMS, IoT"],
+  "links": [{"text": "eXtremeDB", "url": "http://www.mcobject.com/IoT"}]
+}
